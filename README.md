@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi, I’m @GeekyLiam.
+Hi, I’m @LiamHefford.
 
 Currently studying Computer Science at the University of Derby!
 
