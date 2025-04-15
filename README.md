@@ -25,7 +25,7 @@ I'm currently studying Computer Science at the University of Derby!
 Contact me at:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:liamhefford7@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/354561265449828352)
 
 </div>
 
