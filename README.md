@@ -4,6 +4,8 @@ Hi, I’m @LiamHefford.
 
 I'm currently studying Computer Science at the University of Derby!
 
+<br>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamHefford&layout=compact&theme=tokyonight) -->
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -17,6 +19,8 @@ I'm currently studying Computer Science at the University of Derby!
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](www.google.co.uk)
 
 </div>
 
