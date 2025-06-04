@@ -1,9 +1,6 @@
 <div align="center">
 
 Hi, I’m @LiamHefford.
-
-I'm currently studying Computer Science at the University of Derby!
-
 <br>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamHefford&layout=compact&theme=tokyonight) -->
